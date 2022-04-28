@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-and-morty/static/css/main.97771aa6.chunk.css",
+    "main.js": "/react-and-morty/static/js/main.5105a7fe.chunk.js",
+    "main.js.map": "/react-and-morty/static/js/main.5105a7fe.chunk.js.map",
+    "runtime-main.js": "/react-and-morty/static/js/runtime-main.726c9020.js",
+    "runtime-main.js.map": "/react-and-morty/static/js/runtime-main.726c9020.js.map",
+    "static/js/2.4d5105ee.chunk.js": "/react-and-morty/static/js/2.4d5105ee.chunk.js",
+    "static/js/2.4d5105ee.chunk.js.map": "/react-and-morty/static/js/2.4d5105ee.chunk.js.map",
+    "index.html": "/react-and-morty/index.html",
+    "precache-manifest.e17171134937f4c4e2f630c9d2fd07d6.js": "/react-and-morty/precache-manifest.e17171134937f4c4e2f630c9d2fd07d6.js",
+    "service-worker.js": "/react-and-morty/service-worker.js",
+    "static/css/main.97771aa6.chunk.css.map": "/react-and-morty/static/css/main.97771aa6.chunk.css.map",
+    "static/js/2.4d5105ee.chunk.js.LICENSE.txt": "/react-and-morty/static/js/2.4d5105ee.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-and-morty/static/media/get_schwifty.4b4420cf.ttf",
+    "static/media/card.css": "/react-and-morty/static/media/image.8881c2af.png",
+    "static/media/main.jpg": "/react-and-morty/static/media/main.e62030ff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.726c9020.js",
+    "static/js/2.4d5105ee.chunk.js",
+    "static/css/main.97771aa6.chunk.css",
+    "static/js/main.5105a7fe.chunk.js"
+  ]
+}
