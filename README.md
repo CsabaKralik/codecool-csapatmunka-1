@@ -1,1 +1,0 @@
-# codecool-csapatmunka-1
